@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Innovation is the outcome of a habit, not a random act. 👋</h1>
 
 ###
 
